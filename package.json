@@ -1,0 +1,35 @@
+{
+  "name": "tareas",
+  "version": "0.0.1",
+  "description": "Tareas",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juvasquezg/tareas"
+  },
+  "author": "Julián Vásquez <juvasquez88@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juvasquezg/tareas/issues"
+  },
+  "homepage": "https://github.com/juvasquezg/tareas",
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "cors": "^2.4.1",
+    "express": "~4.6.1",
+    "mongoose": "^3.8.15",
+    "swig": "^1.4.2",
+    "winston": "~0.7.3"
+  },
+  "devDependencies": {
+    "chai": "~1.9.1",
+    "chai-as-promised": "~4.1.1",
+    "lodash": "^2.4.1",
+    "mocha": "~1.21.3",
+    "supertest": "~0.13.0",
+    "supertest-as-promised": "^1.0.0"
+  }
+}
