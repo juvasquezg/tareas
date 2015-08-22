@@ -1,8 +1,8 @@
 ﻿var request = require('supertest-as-promised');
 var api = require('../server.js');
-var host = process.env.API_TEST_HOST || api;
+//var host = process.env.API_TEST_HOST || api;
 var mongoose = require('mongoose');
-//var host = 'http://localhost:3000';
+var host = 'http://localhost:3000';
 
 var _ = require('lodash');
 
