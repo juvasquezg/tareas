@@ -9,6 +9,9 @@
 version: 2
 jobs:
   build:
+    filters:
+        branches:
+            only: master
     working_directory: ~/juvasquezg/tareas
     parallelism: 1
     shell: /bin/bash --login
