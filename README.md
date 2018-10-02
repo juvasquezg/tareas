@@ -1,6 +1,6 @@
 # Tareas
 
-Implemenntación de Testing y CI (Integración Continua) con un ejemplo básico
+Implemenntación de Testing y CI (Integración Continua) con un ejemplo básico.
 
 Technology
 ------------
