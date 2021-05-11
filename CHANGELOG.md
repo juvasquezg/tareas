@@ -1,3 +1,11 @@
+# [0.2.0](https://github.com/juvasquezg/tareas/compare/v0.1.1...v0.2.0) (2021-05-11)
+
+
+### Features
+
+* add .npmrc ([b220ceb](https://github.com/juvasquezg/tareas/commit/b220ceb1062c716c2e078b52198f3e0aad0628c7))
+* add @semantic-release/npm ([1178106](https://github.com/juvasquezg/tareas/commit/11781061d5e9d6b71756bce4fb442203b9644c2e))
+
 ## [0.1.1](https://github.com/juvasquezg/tareas/compare/v0.1.0...v0.1.1) (2021-05-11)
 
 
