@@ -1,3 +1,10 @@
+## [0.2.1](https://github.com/juvasquezg/tareas/compare/v0.2.0...v0.2.1) (2021-05-11)
+
+
+### Bug Fixes
+
+* configure @semantic-release/npm ([9458a8c](https://github.com/juvasquezg/tareas/commit/9458a8cb5ba6fcafd1dac157bfde67f5657295da))
+
 # [0.2.0](https://github.com/juvasquezg/tareas/compare/v0.1.1...v0.2.0) (2021-05-11)
 
 
